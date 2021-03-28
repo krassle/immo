@@ -125,7 +125,7 @@ Now let's go to the working directory called `immobot` which contains the file `
 
 Now copy the 3 files into the following directories:
 
-`cp ../immo.py ../submit.py .`
+`cp ../immo.py ../submit.py ../submit_expose.json .`
 
 `cp ../immo_spider.py ./immobot/spiders/`
 
